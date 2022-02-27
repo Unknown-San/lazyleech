@@ -1,1 +1,1 @@
-worker: python3 -m Lazyleech
+worker: python3 -m lazyleech
